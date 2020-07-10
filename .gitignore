@@ -1,0 +1,6 @@
+# se mencionan las carpetas
+# que vno van a salir cuando se ejecute el comando "git status"
+
+test
+prueba2
+txt.txt
